@@ -1,0 +1,9 @@
+.center-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: blue;
+    width: 800px;
+    padding: 10%;
+}
